@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">chatproject</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="Message">Message</string>
+    <string name="the_user_has_been_added">The user has been added</string>
+    <string name="ok">ok</string>
+    <string name="the_room_added">the room has been added</string>
+    <string name="title_activity_chat_room">chatRoomActivity</string>
+    <string name="Registration">Registeration</string>
+    <string name="server_client">364179216776-3014fvo72qu9st9gq9rfo0k0i66brpcq.apps.googleusercontent.com</string>
+</resources>

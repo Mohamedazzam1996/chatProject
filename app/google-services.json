@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "364179216776",
+    "firebase_url": "https://chatproject-29464.firebaseio.com",
+    "project_id": "chatproject-29464",
+    "storage_bucket": "chatproject-29464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364179216776:android:6e6370f6f102a710",
+        "android_client_info": {
+          "package_name": "com.example.mazzam.chatproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364179216776-3014fvo72qu9st9gq9rfo0k0i66brpcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTrtM-BzkLoic4C2jB3B9SqYlysG6Zp1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
